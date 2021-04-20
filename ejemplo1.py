@@ -13,9 +13,6 @@ print(str(today))
 repr(today)
 
 
-def func(*args, **kwargs):
-    print(args)
-    print(kwargs)
 
 
 
